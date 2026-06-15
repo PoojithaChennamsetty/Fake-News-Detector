@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+transformers
+torch
+beautifulsoup4
+requests
+plotly
+shap
+joblib
+bcrypt
